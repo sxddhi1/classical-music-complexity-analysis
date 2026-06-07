@@ -2,8 +2,7 @@
 
 **A Power BI dashboard analyzing structural complexity in classical MIDI compositions.**
 
-> Built as part of a Business Intelligence & Analysis class project(CSE_4018) .
-> By Siddhi Gupta
+> Built as part of a CSE_4018 Business Intelligence & Analysis class assessment.
 
 ---
 
